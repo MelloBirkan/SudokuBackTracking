@@ -96,6 +96,3 @@ int main() {
 
     return 0;
 }
-
-
-// obrigada mello <3, <3 nada hehe , muito obrigada msm e desculpa a hora hehehehe 
